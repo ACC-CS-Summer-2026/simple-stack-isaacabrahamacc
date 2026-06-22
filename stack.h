@@ -1,11 +1,7 @@
-#endif // STACK_H// ============================================================================
-// File: stack.h
-// Course: COSC-2436-002 Data Structures
-// Assignment: Assignment 4 - Simple Int Stack
-// Description: Class interface declaration for a static integer Stack ADT.
-//              Handles bounded stack attributes and public operational stubs
-//              using pass-by-reference error signaling.
-// ============================================================================
+/*********************************************************
+ * Name: Isaac Abraham
+ * Assignment 4: Simple Int Stack
+ *********************************************************/
 
 #ifndef STACK_H
 #define STACK_H
@@ -28,4 +24,3 @@ public:
 };
 
 #endif // STACK_H
-
